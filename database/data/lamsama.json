@@ -1,0 +1,552 @@
+{
+    "S1": {
+        "Tata Kelola dan Penjaminan Mutu": [
+            {
+                "kode": "1",
+                "indikator": "Visi, misi, tujuan, sasaran dan strategi pencapaian (VMTS) program studi yang dikelola, sesuai dengan VMTS Unit Pengelola Program Studi (UPPS) dan VMTS Perguruan Tinggi (PT), dengan 2) mekanisme penyusunan yang melibatkan keterlibatan aktif pemangku kepentingan."
+            },
+            {
+                "kode": "2",
+                "indikator": "Tata pamong 1 dilaksanakan secara efektif dan efisien untuk menjamin mutu, manfaat, kepuasan, dan keberlanjutan pendidikan, penelitian, dan t pengabdian kepada d masyarakat yang s relevan dengan e program studi. 2 d p p p p m m k m k 3 p c d e l b r k s 4 p t d U I T j s m"
+            },
+            {
+                "kode": "3",
+                "indikator": "Keterlaksanaan Sistem Penjaminan Mutu Internal (akademik dan non akademik) pendidikan, penelitian, dan Pengabdian kepada Masyarakat yang merupakan penerapan siklus PPEPP yang dibuktikan dengan keberadaan 5 aspek: 1) dokumen legal pembentukan unsur pelaksana penjaminan mutu. 2) ketersediaan Perangkat SPMI yang memuat: kebijakan SPMI, manual SPMI, standar SPMI, dan formulir SPMI. 3) terlaksananya siklus penjaminan mutu (siklus PPEPP). 4) bukti sahih efektivitas pelaksanaan penjaminan mutu."
+            },
+            {
+                "kode": "4",
+                "indikator": "Pelaksanaan dan pelaporan audit mutu m dilakukan secara m konsisten dan 1 Hasilnya dianalisis p dan digunakan untuk d perbaikan kegiatan k pendidikan, penelitian, dan PkM m s t 2 s t s p d a l p 3 d m d u b k p"
+            },
+            {
+                "kode": "5",
+                "indikator": "UPPS memiliki strategi yang jelas dalam merencanakan dan melaksanakan proses penerimaan mahasiswa baru yang meliputi penetapan daya tampung, penentuan kriteria dan metode seleksi serta evaluasi yang menerus (continuous) serta senantiasa meningkatkan kualitas transparansinya u m 3 m a 4 e m 5 p m d"
+            },
+            {
+                "kode": "6",
+                "indikator": "Ketersediaan layanan kemahasiswaan l kemudahan akses dalam bidang: k a) penalaran, minat t dan bakat, b) kesejahteraan b (bimbingan dan d konseling, layanan a beasiswa, dan layanan d kesehatan), c) bimbingan karir b dan kewirausahaan. ( k b l c k 2 T l k B. PENDIDIKAN DAN PENGAJAR"
+            }
+        ],
+        "Pendidikan dan Pengajaran": [
+            {
+                "kode": "7",
+                "indikator": "Kurikulum menunjukkan hubungan yang sistemik antar masing-masing matakuliah dalam mewujudkan Capaian Pembelajaran Lulusan (CPL). Kebijakan Kurikulum juga mengakomodasi tentang penggunaan AI Generatif pelaksanaan pembelajaran. Kurikulum dilengkapi dengan perangkat pendukung diantaranya rencana pembelajaran semester (RPS) yang mencerminkan kesiapan memasuki dunia kerja dan metode penilaian untuk menjamin lulusan yang kompeten sesuai dengan Visi, Misi, Tujuan dan Sasaran Program Studi."
+            },
+            {
+                "kode": "8",
+                "indikator": "Pemangku kepentingan terlibat dalam penyusunan, evaluasi, dan pemutakhiran kurikulum, serta memastikan kesesuaian capaian pembelajaran dengan profil lulusan dan jenjang KKNI/SKKNI."
+            },
+            {
+                "kode": "9",
+                "indikator": "Proses pembelajaran dilaksanakan dengan mengutamakan Outcome-Based Education (OBE) untuk menghasilkan profil lulusan yang diharapkan oleh pengguna lulusan. Pemantauan kompetensi lulusan dilakukan secara terstruktur dan metode yang valid. Keterampilan mahasiswa dalam bidangnya (subject specific skill) dicapa melalui praktikum, atau praktik bengkel, atau kuliah lapangan atau magang."
+            },
+            {
+                "kode": "10",
+                "indikator": "Integrasi hasil-hasil penelitian dan PkM dalam kegiatan Pendidikan dan Pengajaran"
+            },
+            {
+                "kode": "11",
+                "indikator": "UPPS menyediakan kebijakan sumberdaya dan mengalokasikan sumber daya, menyediakan layanan pendukung, dan bekerja sama dengan pemangku kepentingan dalam bidang pendidikan, penelitian, dan 2) pengabdian kepada masyarakat."
+            },
+            {
+                "kode": "12",
+                "indikator": "Ketersediaan dan rasio dosen akademik/ praktisi yang meliputi jumlah, kualifikasi, dan kompetensi yang memadai, termasuk pengalaman dosen di industri yang relevan, untuk mendukung proses pembelajaran, mencakup perencanaan, pengajaran, evaluasi, dan perbaika berkelanjutan, demi menjamin penguasaan capaian pembelajaran oleh 4) L mahasiswa."
+            },
+            {
+                "kode": "13",
+                "indikator": "Ketersediaan laboran/Teknisi dengan jumlah kualifikasi, kompetensi, dan keterampilan yang sesuai kebutuhan program studi."
+            },
+            {
+                "kode": "14",
+                "indikator": "Kerjasama peningkatan mutu pembelajaran dan suasana akademik yang relevan antara program studi dengan institusi di tingkat nasional dan internasional yang disertai dengan laporan implementasi Kerjasama"
+            },
+            {
+                "kode": "15",
+                "indikator": "Ketersediaan, aksesibilitas, dan mutu sarana laboratorium yang memadai untuk menjamin ketercapaian CPL dan meningkatkan suasana akademik, dimana sarana laboratorium cukup memadai untuk mendukung penelitian yang mampu menghasilkan publikasi ilmiah yang yang bermutu C. PENELITIAN"
+            }
+        ],
+        "Penelitian": [
+            {
+                "kode": "16",
+                "indikator": "Pengelolaan kegiatan penelitian oleh DT dan/atau bersama mahasiswa dalam rangka pengembangan produk dan inovasi untuk menyelesaikan m permasalahan s bangsa dan a masyarakat, e dilengkapi dengan p tata kelola yang m handal, jelas, dan p transparan p t p 2 s t k a m m m m s 3 j t 4 e p m p 5 h p p p k"
+            },
+            {
+                "kode": "17",
+                "indikator": "Kegiatan penelitian oleh DTPS dan /atau ma mahasiswa yang dalam k sesuai dengan Rencana Induk y Penelitian Perguruan p Tinggi yang mengikuti peta jalan penelitian dan/atau fokus k penelitian sesuai bang dengan pengembangan ilmu maha program studi"
+            },
+            {
+                "kode": "18",
+                "indikator": "Ketersediaan infrastruktur dan fasilitas penelitian yang memadai dan mutakhir untuk menjamin luaran penelitian yang penting dan bermutu"
+            },
+            {
+                "kode": "19",
+                "indikator": "Ketersediaan dana penelitian yang memadai dan berkelanjutan dari berbagai sumber, termasuk dana hibah penelitian dari pemerintah, internal institusi, dan industr serta pengelolaannya yang transparan D. PENGABDIAN KEPADA MASYA"
+            }
+        ],
+        "Pengabdian Kepada Masyarakat": [
+            {
+                "kode": "20",
+                "indikator": "Pengelolaan Pengabdian kepada Masyarakat oleh DTPS dan mahasiswa yang berkelanjutan untuk mencapai luaran yang penting dan mendukung capaian Tujuan Pembangunan Berkelanjutan (TPB) 3 e p M d p k f 4 h p p m p k 5 m k d s k y d p"
+            },
+            {
+                "kode": "21",
+                "indikator": "Pelaksanaan Pengabdian kepada m Masyarakat (PkM) p relevan dengan m bidang ilmu program d studi dan kebutuhan p masyarakat oleh m DTPS yang 2) Ha melibatkan k mahasiswa yang m y sesuai dengan peta jalan PkM"
+            },
+            {
+                "kode": "22",
+                "indikator": "Ketersediaan fasilitas dan dana yang memadai untuk mendukung kegiatan PkM serta pengelolaan dana yang transparan, efektif dan efisien. E. CAPAIAN DAN LUARAN"
+            }
+        ],
+        "Capaian dan Luaran": [
+            {
+                "kode": "23",
+                "indikator": "Publikasi ilmiah hasil penelitian dengan tema yang relevan dengan bidang program studi yan dihasilkan DTPS dan/atau bersama pela mahasiswa serta penc memiliki faktor targ dampak (impact perg factor) 2) P diha dan/ maha deng stud damp 3) K publ kont peng bida dan pres pene 4) J pene 2 ta (pub fact SINT pros Scop DTPS DTPS utam auth F. ANALISIS DAN PENETAPAN"
+            }
+        ],
+        "Analisis dan Penetapan Program Pengembangan": [
+            {
+                "kode": "24",
+                "indikator": "Keserbacakupan (kelengkapan, keluasan, dan kedalaman), ketepatan, ketajaman, dan kesesuaian analisi capaian kinerja UPPS/PS serta konsistensi dengan setiap kriteria da diakhiri dengan rencana pengembangan berdasarkan analis kinerja"
+            }
+        ]
+    },
+    "S2": {
+        "Tata Kelola dan Penjaminan Mutu": [
+            {
+                "kode": "1",
+                "indikator": "Visi, misi, tujuan, sasaran 1 dan strategi pencapaian (VMTS) program studi yang dikelola sesuai dengan VMTS Unit Pengelola Program Studi (UPPS) dan VMTS Perguruan Tinggi (PT), dengan mekanisme penyusunan yang 2) S melibatkan keterlibatan aktif pemangku kepentingan."
+            },
+            {
+                "kode": "2",
+                "indikator": "Tata pamong dilaksanakan secara efektif dan efisien untuk menjamin mutu, manfaat, kepuasan, dan keberlanjutan pendidikan, penelitian, dan pengabdian kepada masyarakat yang relevan dengan program studi. pelaks pengaw pengen pendid mengha manfaa keberl mencap kompet 3) Ter pelaks capaia diguna evalua lanjut berkel releva kompet studi. 4) UPP pendid target dalam Utama Indika Tambah jelas, sepenu menduk strate tinggi"
+            },
+            {
+                "kode": "3",
+                "indikator": "Keterlaksanaan Sistem UPPS te Penjaminan Mutu SPMI s Internal (akademik dan perg non akademik) ditet pendidikan, penelitian, asp dan PkM yang merupakan penerapan siklus PPEPP yang dibuktikan dengan keberadaan 5 aspek: 1) dokumen legal pembentukan unsur pelaksana penjaminan mutu. 2) ketersediaan Perangkat SPMI yang memuat: kebijakan SPMI, manual SPMI, standar SPMI, dan formulir SPMI. 3) terlaksananya siklus penjaminan mutu (siklus PPEPP). 4) bukti sahih efektivitas pelaksanaan penjaminan mutu."
+            },
+            {
+                "kode": "4",
+                "indikator": "Pelaksanaan dan Ada b pelaporan audit mutu meyaki dilakukan secara mem konsisten dan hasilnya 1) P dianalisis dan digunakan p untuk perbaikan kegiatan d pendidikan, penelitian, s dan PkM 2 d m d u b k p p M p 3 p l s"
+            },
+            {
+                "kode": "5",
+                "indikator": "UPPS memiliki strategi yang jelas dalam merencanakan dan melaksanakan proses penerimaan mahasiswa baru yang meliputi penetapan daya tampung, penentuan kriteria calon mahasiswa, metode seleksi dan evaluasi yang berkelanjutan serta senantiasa meningkatkan transparansinya"
+            },
+            {
+                "kode": "6",
+                "indikator": "Ketersediaan layanan UPPS kemahasiswaan l kemudahan akses dalam terma bidang : b 1) kesejahteraan b (bimbingan dan 1) La konseling, layanan l beasiswa, dan d layanan kesehatan), m 2) kegiatan ilmiah m seperti workshop, d seminar, dan b pelatihan tentang k teknik penelitian, k penulisan akademik, 2) Kegi dan keterampilan t presentasi untuk m membantu s mahasiswa p mengembangkan k keterampilan yang y diperlukan untuk m pengembangan ilmu p dan pemecahan d masalah yang sesuai m dengan ilmu 3 p l k e l b B. PENDIDIKAN DAN PENGAJARAN"
+            }
+        ],
+        "Pendidikan dan Pengajaran": [
+            {
+                "kode": "7",
+                "indikator": "Kurikulum menunjukkan hubungan yang sistemik antar masing-masing matakuliah dalam mewujudkan Capaian Pembelajaran Lulusan (CPL). Kebijakan Kurikulum mengakomodasi tentang penggunaan AI Generatif pelaksanaan pembelajaran. Kurikulum dilengkapi dengan perangkat pendukung kurikulum diantaranya rencana pembelajaran semester (RPS/module) yang mencerminkan kedalaman atau spesialisasi bahan kajian"
+            },
+            {
+                "kode": "8",
+                "indikator": "Pemangku kepentingan terlibat dalam penyusunan, evaluasi, dan pemutakhiran kurikulum, serta memastikan kesesuaian 2) Te capaian pembelajaran dengan profil lulusan dan jenjang KKNI/SKKNI."
+            },
+            {
+                "kode": "9",
+                "indikator": "Proses pembelajaran dilaksanakan dengan mengutamakan Research-Based Education (RBE) untuk menghasilkan profil 2) P lulusan yang diharapkan oleh pengguna lulusan. Pemantauan kompetensi lulusan dilakukan secara terstruktur dan metode yang valid dan teruji. 3) M Keterampilan mahasiswa dalam bidangnya (subject specific skill) dicapai melalui riset atau penciptaan karya inovatif."
+            },
+            {
+                "kode": "10",
+                "indikator": "Integrasi hasil-hasil 1) penelitian dosen dalam kegiatan Pendidikan dan Pengajaran"
+            },
+            {
+                "kode": "11",
+                "indikator": "UPPS menyediakan 1) kebijakan sumberdaya dan mengalokasikan sumber daya, menyediakan layanan pendukung, dan bekerja sama dengan pemangku kepentingan dalam bidang pendidikan dan penelitian yang mendukung sumber d pengembangan ilmu tepat. 2) UPPS sarana d pendukun lengkap, diakses, bagi siv berkebut untuk kegiatan mahasisw 3) UPPS kerjasam dan dengan pemangku meningka memperlu akses sa 4) Terse memadai mendukun institus pendidik pengabdi masyarak layanan, sumber d (misalka swasta, sama, en dan lain dikelola transpar akuntabe pengelol keuangan 5) Rata- operasio pendidik"
+            },
+            {
+                "kode": "12",
+                "indikator": "Ketersediaan dosen 1) dengan jumlah, kualifikasi, dan kompetensi yang memadai, termasuk pengalaman mengajar yang relevan dengan bidang ilmu, untuk mendukung proses 2 pembelajaran dan penelitian demi menjamin penguasaan capaian pembelajaran oleh mahasiswa."
+            },
+            {
+                "kode": "13",
+                "indikator": "Ketersediaan laboran dengan jumlah, kualifikasi, kompetensi, dan keterampilan yang sesuai kebutuhan program studi."
+            },
+            {
+                "kode": "14",
+                "indikator": "Kerjasama peningkatan mutu pembelajaran dan suasana akademik yang relevan antara program studi dengan institusi di tingkat nasional dan internasional yang disertai dengan laporan implementasi kerjasama"
+            },
+            {
+                "kode": "15",
+                "indikator": "Ketersediaan, aksesibilitas, dan mutu sarana laboratorium yang memadai untuk menjamin ketercapaian CPL dan meningkatkan suasana akademik, dimana sarana laboratorium cukup memadai untuk mendukung penelitian yang mampu menghasilkan publikasi ilmiah yang yang bermutu C. PENELITIAN"
+            }
+        ],
+        "Penelitian": [
+            {
+                "kode": "16",
+                "indikator": "Pengelolaan kegiatan penelitian oleh DTPS dan/atau bersama mahasiswa dalam rangka pendalaman dan perluasan ilmu pengetahuan dan teknologi melalui riset untuk menyelesaikan permasalahan bangsa dan masyarakat, dilengkapi dengan tata kelola yang handal, jelas, dan transparan"
+            },
+            {
+                "kode": "17",
+                "indikator": "Kegiatan penelitian oleh DTPS dan/atau bersama mahasiswa yang sesuai dengan Rencana Induk Penelitian (RIP) Perguruan Tinggi yang mengikuti peta jalan penelitian dan/atau fokus penelitian sesuai dengan pengembangan keilmuan program studi"
+            },
+            {
+                "kode": "18",
+                "indikator": "Ketersediaan infrastruktur 1 dan fasilitas penelitian yang memadai dan mutakhir untuk menjamin luaran penelitian yang potensial publikasi"
+            },
+            {
+                "kode": "19",
+                "indikator": "Ketersediaan dana 1 penelitian yang memadai dan berkelanjutan dari berbagai sumber, termasuk dana hibah penelitian dari pemerintah, intern institusi, dan industri ser pengelolaannya yang transparan D.PENGABDIAN KEPADA MASYARAKAT"
+            }
+        ],
+        "Pengabdian Kepada Masyarakat": [
+            {
+                "kode": "20",
+                "indikator": "Pengelolaan Pengabdian kepada Masyarakat oleh DTPS yang handal, akuntabel, dan transparan untuk mencapai luaran yang berdampak dan mendukung capaian Tujuan Pembangunan Berkelanjutan (TPB)"
+            },
+            {
+                "kode": "21",
+                "indikator": "Pelaksanaan Pengabdian kepada Masyarakat (PkM) relevan dengan bidang ilmu program studi dan kebutuhan masyarakat oleh DTPS yang sesuai dengan peta jalan PkM 3) ke pe Ma di DT pe ke st pe me pe pe te"
+            },
+            {
+                "kode": "22",
+                "indikator": "Ketersediaan fasilitas dan 1 dana yang memadai si untuk mendukung pe kegiatan PkM serta me pengelolaan dana yang de transparan, efektif dan be efisien. ta me be me da pe 2) te pe at pe tr ef du te 3) ke be pe in in s d d u k k s 4 p k b K k 5 p M D t 1 E.CAPAIAN DAN LUARAN"
+            }
+        ],
+        "Capaian dan Luaran": [
+            {
+                "kode": "23",
+                "indikator": "Publikasi ilmiah hasil penelitian dengan tema D yang relevan dengan m bidang program studi b yang dihasilkan DTPS b dan/atau bersama p mahasiswa serta memiliki p faktor dampak (impact t factor) t 2 D m d s d 3 p k p b m F. ANALISIS DAN PENETAPAN PROGR"
+            }
+        ],
+        "Analisis dan Penetapan Program Pengembangan": [
+            {
+                "kode": "24",
+                "indikator": "Keserbacakupan (kelengkapan, keluasan, dan kedalaman), ketepatan, ketajaman, dan kesesuaian analisis capaian kinerja UPPS/PS serta konsistensi dengan setiap kriteria dan diakhir dengan rencana pengembangan berdasarkan analisis kinerja meningkatkan kin UPPS/PS. 3) Rencana pengembangan rea dan didukung ole sumber daya yang dimiliki."
+            }
+        ]
+    },
+    "S3": {
+        "Tata Kelola dan Penjaminan Mutu": [
+            {
+                "kode": "1",
+                "indikator": "Visi, misi, tujuan, sasaran 1 dan strategi pencapaian (VMTS) program studi yang dikelola sesuai dengan VMTS Unit Pengelola Program Studi (UPPS) dan VMTS Perguruan Tinggi (PT), dengan mekanisme penyusunan yang 2) S melibatkan keterlibatan aktif pemangku kepentingan."
+            },
+            {
+                "kode": "2",
+                "indikator": "Tata pamong dilaksanakan secara efektif dan efisien untuk menjamin mutu, manfaat, kepuasan, dan keberlanjutan pendidikan, penelitian, dan pengabdian kepada masyarakat yang relevan dengan program studi. 2) UPPS dokumen perencan pelaksanaan, pengawasan pengendalian keg pendidikan menghasilkan mut manfaat, kepuasa keberlanjutan un mencapai kompetensi lulus 3) Terdapat pelaksanaan capaian, yang ha digunakan evaluasi dan tin lanjut berkelanjutan relevan kompetensi progr studi. 4) UPPS memiliki pendidikan tingg targetnya dituan dalam Indikator Utama (IKU) dan Indikator Tambahan (IKT) y jelas, terukur, sepenuhnya mendukung sasara strategis pergur tinggi."
+            },
+            {
+                "kode": "3",
+                "indikator": "Keterlaksanaan Sistem UPPS te Penjaminan Mutu SPMI Internal (akademik dan perg non akademik) ditet pendidikan, penelitian, asp dan PkM yang merupakan penerapan siklus PPEPP yang dibuktikan dengan keberadaan 5 aspek: 1) dokumen legal pembentukan unsur pelaksana penjaminan mutu. 2) ketersediaan Perangkat SPMI yang memuat: kebijakan SPMI, manual SPMI, standar SPMI, dan formulir SPMI. 3) terlaksananya siklus penjaminan mutu (siklus PPEPP). 4) bukti sahih efektivitas pelaksanaan penjaminan mutu."
+            },
+            {
+                "kode": "4",
+                "indikator": "Pelaksanaan dan 1) pelaporan audit mutu dilakukan secara konsisten dan hasilnya dianalisis dan digunakan 2) untuk perbaikan kegiatan pendidikan, penelitian, dan PkM"
+            },
+            {
+                "kode": "5",
+                "indikator": "UPPS memiliki strategi yang jelas dalam merencanakan dan melaksanakan proses penerimaan mahasiswa baru yang meliputi penetapan daya tampung, penentuan kriteria calon mahasiswa, metode seleksi dan evaluasi yang berkelanjutan serta senantiasa meningkatkan transparansinya 4 e m 5 p m d"
+            },
+            {
+                "kode": "6",
+                "indikator": "Ketersediaan layanan UPPS kemahasiswaan l kemudahan akses dalam terma bidang : b 1) kesejahteraan b (bimbingan dan 1) La konseling, layanan l beasiswa, dan d layanan kesehatan), m 2) kegiatan ilmiah m seperti workshop, d seminar, dan b pelatihan tentang k teknik penelitian, k penulisan akademik, 2) Kegi dan keterampilan t presentasi untuk m membantu s mahasiswa p mengembangkan k keterampilan yang y diperlukan untuk m pengembangan ilmu p dan pemecahan d masalah yang sesuai m dengan ilmu 3 p l k e l b B. PENDIDIKAN DAN PENGAJARAN"
+            }
+        ],
+        "Pendidikan dan Pengajaran": [
+            {
+                "kode": "7",
+                "indikator": "Kurikulum menunjukkan hubungan yang sistemik antar masing-masing matakuliah dalam mewujudkan Capaian Pembelajaran Lulusan (CPL). Kebijakan Kurikulum mengakomodasi tentang penggunaan AI Generatif pelaksanaan pembelajaran. Kurikulum dilengkapi dengan perangkat pendukung kurikulum diantaranya rencana pembelajaran semester (RPS/module) yang mencerminkan kedalaman atau spesialisasi bahan kajian"
+            },
+            {
+                "kode": "8",
+                "indikator": "Pemangku kepentingan terlibat dalam penyusunan, evaluasi, dan pemutakhiran kurikulum, serta memastikan kesesuaian capaian pembelajaran 2) Ter dengan profil lulusan dan jenjang KKNI/SKKNI. p j 4 d k s s"
+            },
+            {
+                "kode": "9",
+                "indikator": "Proses pembelajaran dilaksanakan dengan b mengutamakan B Research-Based d Education (RBE) untuk s menghasilkan profil 2) lulusan yang diharapkan k oleh pengguna lulusan. ( Pemantauan kompetensi p lulusan dilakukan secara m terstruktur dan metode y yang valid dan teruji. 3) U Keterampilan mahasiswa e dalam bidangnya (subject u specific skill) dicapai k melalui penelitian dan p penulisan ilmiah"
+            },
+            {
+                "kode": "10",
+                "indikator": "Integrasi hasil-hasil 1 penelitian dosen dalam k kegiatan Pendidikan dan p Pengajaran p d a d t p k 2 t k p d l d"
+            },
+            {
+                "kode": "11",
+                "indikator": "UPPS menyediakan 1) kebijakan sumberdaya dan mengalokasikan sumber daya, menyediakan layanan pendukung, dan bekerja sama dengan pemangku kepentingan dalam bidang pendidikan dan penelitian yang mendukung pengembangan ilmu pemangku kepenti meningkatkan memperluas jangk akses sarana pra 4) Tersedianya d memadai mendukung operas institusi, pendidikan, pene pengabdian kepad masyarakat, layanan, sumber dana yang (misalkan: pemer swasta, hibah, k sama, endowment dan lain-lain), dikelola transparan akuntabel, terma pengelolaan keuangan 5) Rata-rata operasional pendidikan/mahas tahun dalam 2 ta terakhir minimal dengan 40 (dalam rupiah)"
+            },
+            {
+                "kode": "12",
+                "indikator": "Ketersediaan dosen 1) dengan jumlah, kualifikasi, dan kompetensi yang memadai, termasuk pengalaman mengajar yang relevan dengan bidang ilmu, untuk mendukung proses 2 pembelajaran dan penelitian demi menjamin penguasaan capaian pembelajaran oleh mahasiswa."
+            },
+            {
+                "kode": "13",
+                "indikator": "Ketersediaan laboran dengan jumlah, kualifikasi, kompetensi, dan keterampilan yang sesuai kebutuhan program studi."
+            },
+            {
+                "kode": "14",
+                "indikator": "Kerjasama peningkatan mutu pembelajaran dan suasana akademik yang relevan antara program studi dengan institusi di tingkat nasional dan internasional yang disertai dengan laporan implementasi kerjasama"
+            },
+            {
+                "kode": "15",
+                "indikator": "Ketersediaan, aksesibilitas, dan mutu sarana laboratorium yang memadai untuk menjamin ketercapaian CPL dan meningkatkan suasana akademik, dimana sarana laboratorium memadai untuk mendukung penelitian yang mampu menghasilkan publikasi ilmiah yang yang bermutu C. PENELITIAN"
+            }
+        ],
+        "Penelitian": [
+            {
+                "kode": "16",
+                "indikator": "Pengelolaan kegiatan penelitian oleh DTPS dan/atau bersama mahasiswa dalam rangka pendalaman dan perluasan ilmu pengetahuan dan teknologi melalui riset untuk menyelesaikan permasalahan bangsa dan masyarakat, dilengkapi dengan tata kelola yang handal, jelas, dan transparan"
+            },
+            {
+                "kode": "17",
+                "indikator": "Kegiatan penelitian oleh DTPS dan/atau mahasiswa yang sesuai dengan Rencana Induk Penelitian (RIP) Perguruan Tinggi yang mengikuti peta jalan penelitian dan/atau fokus penelitian sesuai dengan pengembangan ilmu program studi yang ditandai dengan Keberadaan Peta Jalan Penelitian DTPS"
+            },
+            {
+                "kode": "18",
+                "indikator": "Ketersediaan infrastruktur 1 dan fasilitas penelitian yang memadai dan mutakhir untuk menjamin luaran penelitian yang telah terpublikasikan"
+            },
+            {
+                "kode": "19",
+                "indikator": "Ketersediaan penelitian yang memadai dan berkelanjutan dari berbagai sumber, termasuk dana hibah penelitian dari pemerintah, internal 2) Da institusi, dan industri ser pengelolaannya yang transparan D.PENGABDIAN KEPADA MASYARAKAT"
+            }
+        ],
+        "Pengabdian Kepada Masyarakat": [
+            {
+                "kode": "20",
+                "indikator": "Pengelolaan Pengabdian kepada Masyarakat oleh DTPS yang handal, akuntabel, dan transparan untuk mencapai luaran yang berdampak dan mendukung capaian Tujuan Pembangunan Berkelanjutan (TPB) pengabdian kepad masyarakat mendukung pelaksanaan misi pencapaian visi target perguruan tinggi 2) UPPS memiliki jalan yang sesua TPB (SDG) yang d Universitas, pengabdian kepad masyarakat oleh dalam rangka hil penerapan keilmu program studi 3) UPPS evaluasi kesesua pengabdian kepad Masyarakat oleh dengan peta jala pengabdian kepad masyarakat dan f TPB yang dipilih 4) UPPS mengguna hasil evaluasi u perbaikan releva pengabdian kepad masyarakat pengembangan keilmuan program 5) Pelaksanaan memiliki kerjasama yang d dengan perjanjia sama atau surat kesediaan dari m yang yang releva dengan visi keil prodi"
+            },
+            {
+                "kode": "21",
+                "indikator": "Pelaksanaan Pengabdian kepada Masyarakat (PkM) relevan dengan bidang ilmu program studi dan kebutuhan masyarakat oleh DTPS yang sesuai dengan peta 2) jalan PkM"
+            },
+            {
+                "kode": "22",
+                "indikator": "Ketersediaan fasilitas dan 1 dana yang memadai untuk mendukung kegiatan PkM serta pengelolaan dana yang transparan, efektif dan efisien. p a p t e d t 3 k b p i i s d d u k k s 4 p k b K k 5 p M D t 1 E.CAPAIAN DAN LUARAN"
+            }
+        ],
+        "Capaian dan Luaran": [
+            {
+                "kode": "23",
+                "indikator": "Publikasi ilmiah hasil penelitian dengan tema d yang relevan dengan d bidang program studi m yang dihasilkan DTPS r dan atau bersama p mahasiswa serta memiliki m faktor dampak (impact factor) F. ANALISIS DAN PENETAPAN PROGR"
+            }
+        ],
+        "Analisis dan Penetapan Program Pengembangan": [
+            {
+                "kode": "24",
+                "indikator": "Keserbacakupan (kelengkapan, keluasan, dan kedalaman), ketepatan, ketajaman, dan kesesuaian analisis capaian kinerja UPPS/PS serta konsistensi dengan setiap kriteria dan diakhir dengan rencana pengembangan berdasarkan analisis kinerja 2) Rencana pengembangan jel dan terperinci s didasarkan analisis indikator kinerj dan indikator ki tambahan, menyaj langkah-langkah strategis yang a diambil meningkatkan kin UPPS/PS. 3) Rencana pengembangan rea dan didukung ole sumber daya yang dimiliki."
+            }
+        ]
+    },
+    "D3": {
+        "Tata Kelola dan Penjaminan Mutu": [
+            {
+                "kode": "1",
+                "indikator": "Visi, misi, tujuan, sasaran dan strategi pencapaian realist (VMTS) program studi VMTS UP yang dikelola, sesuai Perguru dengan VMTS Unit antara Pengelola Program Studi serta (UPPS) dan VMTS pengemb Perguruan Tinggi (PT), 2) Seluruh dengan mekanisme kepenti penyusunan yang (Pimpin melibatkan keterlibatan mahasis aktif pemangku (lulusa kepentingan. mitra, profesi usaha, dunia k penyusu 3) Meka VMTS be transpa"
+            },
+            {
+                "kode": "2",
+                "indikator": "Tata pamong dilaksanakan secara sesuai efektif dan efisien untuk kebijak menjamin mutu, manfaat, Tinggi kepuasan, dan jelas, keberlanjutan pendidikan, serta penelitian, dan secara pengabdian kepada 2) UPPS memil masyarakat yang relevan perenca dengan program studi. pengawa pengend pendidi mutu, m keberla standar 3) Terd dan cap digunak tindak berkela dengan studi. 4) UPPS pendidi targetn Indikat dan Ind Tambaha terukur menduku perguru"
+            },
+            {
+                "kode": "3",
+                "indikator": "Keterlaksanaan Sistem UPPS telah mel Penjaminan Mutu sesuai stan Internal (akademik dan yang diteta non akademik) aspek pendidikan, penelitian, dan Pengabdian kepada Masyarakat yang merupakan penerapan siklus PPEPP yang dibuktikan dengan keberadaan 4 aspek: 1) dokumen legal pembentukan unsur pelaksana penjaminan mutu. 2) ketersediaan Perangkat SPMI yang memuat: kebijakan SPMI, manual SPMI, standar SPMI, dan formulir SPMI. 3) terlaksananya siklus penjaminan mutu (siklus PPEPP). 4) bukti sahih efektivitas pelaksanaan penjaminan mutu."
+            },
+            {
+                "kode": "4",
+                "indikator": "Pelaksanaan pelaporan audit mutu audit mu dilakukan secara konsiste konsisten dan hasilnya pemenuha dianalisis dan digunakan pendidik untuk perbaikan kegiatan 2) Evalua pendidikan, penelitian, pendidik dan PkM dilaksan melalui diri, au asesmen, yang dit tinggi. 3) Hasil secara m digunaka perbaika kegiatan peneliti kepada m 4) Terse pelaksan lengkap optimal pelaksan Tridharm 5) Pener memberik signifik seluruh"
+            },
+            {
+                "kode": "5",
+                "indikator": "UPPS memiliki strategi yang jelas dalam jelas dan merencanakan dan merencana melaksanakan proses melaksana penerimaan mahasiswa penerimaa baru yang meliputi termasuk penetapan daya tampung, penerimaa penentuan kriteria dan penetapan metode seleksi serta kriteria evaluasi yang menerus seleksi, (continuous) serta seleksi senantiasa meningkatkan berkesina kualitas transparansinya 2) Peneri dilaksana transpara terbuka u mekanisme 3) Peneri bersifat adil 4) UPPS m dan perba seleksi. 5) PS tid penurunan mahasiswa tahun ter"
+            },
+            {
+                "kode": "6",
+                "indikator": "Ketersediaan layanan kemahasiswaan kemahasis kemudahan akses dalam mahasiswa bidang: khusus da a) penalaran, minat dan a) penala bakat, b) kesejahteraan b) keseja (bimbingan dan konseling, layanan beasiswa, dan layanan kesehatan), c) bimbin c) bimbingan karir dan kewirausahaan. 2) UPPS m penggunaa B. PENDIDIKAN DAN PENGAJARAN"
+            }
+        ],
+        "Pendidikan dan Pengajaran": [
+            {
+                "kode": "7",
+                "indikator": "Kurikulum menunjukkan hubungan yang sistemik antar masing-masing matakuliah dalam mewujudkan Capaian Pembelajaran Lulusan (CPL). Kurikulum mengakomodasi tentang penggunaan AI Generatif pelaksanaan pembelajaran. Kurikulum dilengkapi dengan perangkat pendukung diantaranya rencana pembelajaran semester (RPS) yang mencerminkan kesiapan memasuki Dunia usaha, Dunia Kerja, dunia industri dan metode penilaian untuk menjamin lulusan 2) Ada kebi yang kompeten sesuai dengan Visi, Misi, Tujuan dan Sasaran Program Studi 3) RP usaha, indust pendek pembel releva pasar. disesu serta mahasi secara 4) Met menjam kompet dengan Sasara sehing memasu dengan releva 5) Ter kuanti keterc pembel"
+            },
+            {
+                "kode": "8",
+                "indikator": "Dunia usaha, dunia industri, dan dunia kerja dan/at terlibat dalam indust penyusunan, evaluasi, terlib dan pemutakhiran penyus kurikulum, serta pemuta memastikan kesesuaian 2) Tersedia capaian pembelajaran yang m dengan profil lulusan dan pemang jenjang KKNI/SKKNI. penyus pemuta secara berkel 3) Cap sesuai dan je 4) Pen pemuta dilaksan setiap 4"
+            },
+            {
+                "kode": "9",
+                "indikator": "Proses pembelajaran dilaksanakan dengan OBE, pro mengutamakan Outcome- pembelaj Based Education (OBE) sejenis khususnya kemampuan sesuai d keterampilan tertentu 2) Pemantaua secara umum dan khusus lulusan untuk menyelesaikan secara p masalah secara mengguna prosedural serta adaptif valid, u terhadap situasi lulusan perubahan sesuai e yang dihadapi untuk lulusan. menghasilkan profil 3) Keterampil lulusan yang diharapkan (subject oleh pengguna lulusan. mahasisw Pemantauan kompetensi berbagai lulusan dilakukan secara praktiku terstruktur dan metode kuliah l yang valid. Ketrampilan magang, mahasiswa dalam untuk bidangnya (subject keteramp specific skill) dicapai dunia ke melalui praktikum, atau 4) Terdapa praktik bengkel, atau rinci me kuliah lapangan atau CPL dala magang. 5) Minim pembelaj pembelaj dalam be praktik lapangan 6) UPPS"
+            },
+            {
+                "kode": "10",
+                "indikator": "Integrasi hasil-hasil inovasi dan pengemba pengembangan produk (misalny dalam kegiatan teknis, Pendidikan dan usaha)sa Pengajaran dalam ke dan Peng 2) Dosen mengguna dan peng dalam tu praktik kontribu pengemba mahasisw 3) Terda yang men Inovasi produk 4) Lebih mata dikemban hasil pe pengemba"
+            },
+            {
+                "kode": "11",
+                "indikator": "UPPS menyediakan kebijakan sumberdaya pengemba dan mengalokasikan (sumber sumber daya, keuangan menyediakan layanan prasaran pendukung, dan bekerja informas sama dengan pemangku mengalok kepentingan dalam bidang secara t pendidikan, penelitian, 2) UPPS me dan pengabdian kepada dan pras masyarakat. yang len serta in akademik khusus u kegiatan mahasisw 3) UPPS yang kua dengan b kepentin dan memp akses sa 4) Terse memadai operasio pendidik pengabdi masyarak dengan s jelas (m swasta, endowmen lain), s transpar termasuk keuangan 5) Rata- pendidik dalam 2 dari sam juta rup"
+            },
+            {
+                "kode": "12",
+                "indikator": "Ketersediaan dan rasio dosen akademik/ praktisi pelaksan yang meliputi jumlah, rekrutme kualifikasi, dan pengemba kompetensi yang terstruk memadai, termasuk sesuai d pengalaman dosen di VMTS industri yang relevan, 2) Ketersed untuk mendukung proses akademik pembelajaran, mencakup dan mend perencanaan, pengajaran, pembelaj evaluasi, dan perbaikan 3) Minimal berkelanjutan, demi kual menjamin penguasaan doct capaian pembelajaran sesu oleh mahasiswa. prod 4) M sert komp Yang komp 5) L DTPS akad dan jaba Kepa 6) M sert 7) J seba kuli mini DTPS"
+            },
+            {
+                "kode": "13",
+                "indikator": "Ketersediaan laboran/Teknisi dengan labo jumlah, kualifikasi, mema kompetensi, dan labo keterampilan yang sesuai prog kebutuhan program studi. Pend sesu yang jawa labo bers tert tuga 2) Pe denga prodi alam labor labor untuk forma labor 23 l"
+            },
+            {
+                "kode": "14",
+                "indikator": "Kerjasama peningkatan mutu pembelajaran dan yang suasana akademik yang denga relevan antara program Dunia studi dengan Dunia dunia usaha, Dunia Kerja, dunia pergu industri dan /atau nasio perguruan tinggi lainnya di Kerja tingkat nasional dan signi internasional yang pembe disertai dengan laporan akade implementasi kerjasama pertu bersa progr 2) La kerja lengk menge terha suasa renca penge"
+            },
+            {
+                "kode": "15",
+                "indikator": "Ketersediaan, aksesibilitas, dan mutu dan sarana labor laboratorium/Bengkel/Wor p/stu kshop/Studio yang menca memadai untuk menjamin lulus ketercapaian CPL , 2) UPPS perolehan sertifikasi akses kompetensi yang sesuai labor bidang serta p/stud meningkatkan suasana dari d akademik, termasuk 3) Lab laboratorium/Bengkel/Wor standa kshop/Studio yang Keseha memadai untuk kesela mahasiswa, jumlah modul 4) Jum yang tersedia, serta lengka fasilitas dan peralatan perala pendukung lainnya. sangat signif suasan menduk pembel C. PENELITIAN"
+            }
+        ],
+        "Penelitian": [
+            {
+                "kode": "16",
+                "indikator": "Pengelolaan kegiatan penelitian oleh DTPS peneli dan/atau bersama dan tr mahasiswa dalam rangka kode e pengembangan produk prosed dan inovasi untuk mudah menyelesaikan menjam permasalahan bangsa efekti dan masyarakat, untuk dilengkapi dengan tata pelaks kelola yang handal, jelas, pencap dan transparan dampak 2) UPP berbas dan ko andal menyeb mendok mengev melapo peneli 3) UPP memayu DTPS 4) UPP kesesu dan jala 5) U eval rele peng prog"
+            },
+            {
+                "kode": "17",
+                "indikator": "Kegiatan penelitian oleh DTPS dan/atau mahasiswa mahasiswa yang sesuai kegiatan pen dengan Rencana Induk dan relevan, Penelitian Perguruan pada Tinggi yang mengikuti pengetahuan peta jalan penelitian menawarkan s dan/atau fokus penelitian masalah sesuai dengan masyarakat. pengembangan ilmu 2) DTPS da program studi mela sesu pene kepa 3) J dose mema lebi ketu Kola tahu"
+            },
+            {
+                "kode": "18",
+                "indikator": "Ketersediaan infrastruktur dan fasilitas penelitian dan kebu inovasi yang memadai fasi dan mutakhir untuk duku menjamin luaran yang penelitian yang penting guna dan bermutu pene berk 2) S bert pen pub"
+            },
+            {
+                "kode": "19",
+                "indikator": "Ketersediaan penelitian yang memadai yan dan berkelanjutan dari ber berbagai sumber, sum termasuk dana hibah ter penelitian dari 2) Dana pemerintah, internal dar institusi, dan industri serta ind pengelolaannya yang neg transparan dom den unt pen 3) DTP ter den 4) pen Kem ins D. PENGABDIAN KEPADA MASYARAKAT"
+            }
+        ],
+        "Pengabdian Kepada Masyarakat": [
+            {
+                "kode": "20",
+                "indikator": "Pengelolaan Pengabdian kepada Masyarakat oleh pen DTPS dan mahasiswa mas yang handal, akuntable, jel dan transparan untuk tra mencapai luaran yang eti berdampak dan ter mendukung capaian dia Tujuan Pembangunan aku Berkelanjutan (TPB) pro mas pel pen dam 2) ses dip pengabdia masyaraka Mahasiswa hilirisas program s 3) UPPS m kesesuaia kepada Ma DTPS dan peta jala masyaraka yang dipi 4) UPPS m evaluasi relevansi masyaraka pengemban program s 5) Pelaks mitra ker dengan pe atau sura yang yang keilmuan"
+            },
+            {
+                "kode": "21",
+                "indikator": "Pelaksanaan Pengabdian kepada Masyarakat (PkM) melaksana relevan dengan bidang kepada ma ilmu program studi dan dengan pe kebutuhan masyarakat pengabdia oleh DTPS yang masyaraka melibatkan atau tanpa 2) Mutu, rel melibatkan mahasiswa kemanfaat yang sesuai dengan peta Masyaraka jalan PkM dilaksana dan mahas pencapaia program s pelaksana merupakan pengetahu"
+            },
+            {
+                "kode": "22",
+                "indikator": "Ketersediaan fasilitas dan dana yang memadai untuk mendukung kegiatan PkM in serta pengelolaan dana yang transparan, efektif Pk dan efisien. de E. CAPAIAN DAN LUARAN da me op vi pe 2) te pe in pe tr ef pe 3) ma pe in ya di in me pe ma 4) pe ma mi ke 5) ke DT te ru"
+            }
+        ],
+        "Capaian dan Luaran": [
+            {
+                "kode": "23",
+                "indikator": "Publikasi ilmiah hasil penelitian dengan tema esentasi yang relevan dengan peneliti bidang program studi bersama yang dihasilkan DTPS bermutu, dan/atau bersama bermanfa mahasiswa serta memiliki pelaksan faktor dampak (impact pencapai factor) dampak p 2) Publi DTPS dan mahasisw bidang p memiliki (impact 3) Kuali publikas memberik pada pen bidang p menunjuk dalam pe 4) Jumla DTPS dal (publika Q1Q4, j dan/atau Scopus/W jumlah D DTPS seb utama/ko F. ANALISIS DAN PENETAPAN PROGRAM PENG"
+            }
+        ],
+        "Analisis dan Penetapan Program Pengembangan": [
+            {
+                "kode": "24",
+                "indikator": "Keserbacakupan (kelengkapan, keluasan, UPPS dan kedalaman), meme ketepatan, ketajaman, kele dan kesesuaian analisis keta capaian kinerja UPPS/PS pada serta konsistensi dengan ditu setiap kriteria dan diakhiri Perg dengan rencana menu pengembangan tent berdasarkan analisis kont kinerja ting 2) R peng terp pada indi indi meny stra untu UPPS 3) R peng didu yang"
+            }
+        ]
+    },
+    "S1 Terapan": {
+        "Tata Kelola dan Penjaminan Mutu": [
+            {
+                "kode": "1",
+                "indikator": "Visi, misi, tujuan, sasaran dan strategi pencapaian (VMTS) program studi yang dikelola, sesuai dengan VMTS Unit Pengelola Program Studi (UPPS) dan VMTS Perguruan Tinggi (PT), dengan mekanisme penyusunan yang melibatkan 2) Selu keterlibatan aktif pemangku kepentingan."
+            },
+            {
+                "kode": "2",
+                "indikator": "Tata pamong dilaksanakan secara efektif dan efisien untuk menjamin mutu, manfaat, kepuasan, dan keberlanjutan pendidikan, penelitian, dan pengabdian kepada masyarakat yang relevan dengan program studi. 3) T 4) U"
+            },
+            {
+                "kode": "3",
+                "indikator": "Keterlaksanaan Sistem UPPS t Penjaminan Mutu Internal SPMI sesu (akademik dan non akademik) pergur pendidikan, penelitian, dan diteta Pengabdian kepada aspek Masyarakat yang merupakan penerapan siklus PPEPP yang dibuktikan dengan keberadaan 5 aspek: 1) dokumen legal pembentukan unsur pelaksana penjaminan mutu. 2) ketersediaan Perangkat SPMI yang memuat: kebijakan SPMI, manual SPMI, standar SPMI, dan formulir SPMI. 3) terlaksananya siklus penjaminan mutu (siklus PPEPP). 4) bukti sahih efektivitas pelaksanaan penjaminan mutu."
+            },
+            {
+                "kode": "4",
+                "indikator": "Pelaksanaan dan pelaporan audit mutu dilakukan secara konsisten dan hasilnya dianalisis dan digunakan untuk perbaikan kegiatan pendidikan, penelitian, dan PkM 2) 3) 4) 5)"
+            },
+            {
+                "kode": "5",
+                "indikator": "UPPS memiliki strategi yang jelas dalam merencanakan dan melaksanakan proses penerimaan mahasiswa baru yang meliputi penetapan daya tampung, penentuan kriteria dan metode seleksi serta evaluasi yang menerus (continuous) serta senantiasa meningkatkan kualitas transparansinya"
+            },
+            {
+                "kode": "6",
+                "indikator": "Ketersediaan layanan kemahasiswaan kemudahan akses dalam bidang: a) penalaran, minat dan bakat, b) kesejahteraan (bimbingan dan konseling, layanan beasiswa, dan layanan kesehatan), c) bimbingan karir dan kewirausahaan. B. PENDIDIKAN DAN PENGAJARAN"
+            }
+        ],
+        "Pendidikan dan Pengajaran": [
+            {
+                "kode": "7",
+                "indikator": "Kurikulum menunjukkan hubungan yang sistemik antar masing-masing matakuliah dalam mewujudkan Capaian Pembelajaran Lulusan (CPL). Kurikulum mengakomodasi tentang penggunaan AI Generatif pelaksanaan pembelajaran. Kurikulum dilengkapi dengan perangkat pendukung diantaranya rencana pembelajaran semester (RPS) yang mencerminkan kesiapan memasuki Dunia usaha, Dunia Kerja, dunia industri dan metode penilaian untuk menjamin lulusan yang kompeten sesuai dengan Visi, Misi, Tujuan dan Sasaran Program Studi 3) 4) 5)"
+            },
+            {
+                "kode": "8",
+                "indikator": "Dunia usaha, dunia industri, dan dunia kerja terlibat dalam penyusunan, evaluasi, dan pemutakhiran kurikulum, serta memastikan kesesuaian capaian pembelajaran dengan profil lulusan dan jenjang KKNI/SKKNI."
+            },
+            {
+                "kode": "9",
+                "indikator": "Proses pembelajaran 1) dilaksanakan dengan mengutamakan Outcome-Based Education (OBE) khususnya kemampuan keterampilan tertentu secara umum dan khusus untuk menyelesaikan 2) Pema masalah secara prosedural serta adaptif terhadap situasi perubahan yang dihadapi untuk menghasilkan profil lulusan yang diharapkan oleh pengguna lulusan. Pemantauan kompetensi lulusan dilakukan secara terstruktur dan metode 3) K yang valid. Keterampilan mahasiswa dalam bidangnya (subject specific skill) dicapai melalui praktikum, atau praktik bengkel, atau kuliah lapangan atau magang. 4) UPPS"
+            },
+            {
+                "kode": "10",
+                "indikator": "Integrasi hasil-hasil inovasi dan 1 pengembangan produk dalam kegiatan Pendidikan dan Pengajaran 2) Dose 3) Terd 4) Lebi"
+            },
+            {
+                "kode": "11",
+                "indikator": "UPPS menyediakan kebijakan sumberdaya dan mengalokasikan sumber daya, menyediakan layanan pendukung, dan bekerja sama dengan pemangku kepentingan dalam bidang pendidikan, penelitian, dan pengabdian kepada masyarakat. 2) UP 3) UP 4) Te"
+            },
+            {
+                "kode": "12",
+                "indikator": "Ketersediaan dan rasio dosen akademik/ praktisi yang meliputi jumlah, kualifikasi, dan kompetensi yang memadai, termasuk pengalaman dosen di industri yang relevan, untuk mendukung proses pembelajaran, mencakup perencanaan, pengajaran, 2) Kete evaluasi, dan perbaikan berkelanjutan, demi menjamin penguasaan capaian pembelajaran oleh mahasiswa. 3) Mi 7)"
+            },
+            {
+                "kode": "13",
+                "indikator": "Ketersediaan laboran/Teknisi dengan jumlah, kualifikasi, kompetensi, dan keterampilan yang sesuai kebutuhan program studi. 2)"
+            },
+            {
+                "kode": "14",
+                "indikator": "Kerjasama peningkatan mutu pembelajaran dan suasana akademik yang relevan antara program studi dengan Dunia usaha, Dunia Kerja, dunia industri dan /atau perguruan tinggi lainnya di tingkat nasional dan internasional yang disertai dengan laporan implementasi Kerjasama"
+            },
+            {
+                "kode": "15",
+                "indikator": "Ketersediaan, aksesibilitas, dan 1) mutu sarana laboratorium/Bengkel/Workshop /Studio yang memadai untuk menjamin ketercapaian CPL , perolehan sertifikasi kompetensi yang sesuai bidang serta meningkatkan suasana 2) UPPS akademik, termasuk laboratorium/Bengkel/Workshop /Studio yang memadai untuk mahasiswa, jumlah modul yang tersedia, serta fasilitas dan peralatan pendukung lainnya. 3) La 4 C. PENELITIAN"
+            }
+        ],
+        "Penelitian": [
+            {
+                "kode": "16",
+                "indikator": "Pengelolaan kegiatan penelitian oleh DTPS dan/atau bersama mahasiswa dalam rangka pengembangan produk dan inovasi untuk menyelesaikan permasalahan bangsa dan masyarakat, dilengkapi dengan tata kelola yang handal, jelas, dan transparan 2 3 4) UPPS jalan, 5) UPPS mengguna"
+            },
+            {
+                "kode": "17",
+                "indikator": "Kegiatan penelitian oleh DTPS 1)DTP dan/atau mahasiswa yang mahasiswa sesuai dengan Rencana Induk dalam Penelitian Perguruan Tinggi yang i yang mengikuti peta jalan yang ber penelitian dan/atau fokus perluasa penelitian sesuai dengan dan pengembangan ilmu program menawark studi untuk masalah masyarakat. 2)DTPS dan/atau melaksanakan p sesuai dengan penelitian dos merujuk kepada penelitian. 3)Jumlah kegiata dosen dan/atau memadai yang d dengan lebih d DTPS sebagai k peneliti (Hiba atau mandiri) dalam 2 tahun"
+            },
+            {
+                "kode": "18",
+                "indikator": "Ketersediaan infrastruktur dan fasilitas penelitian dan inova yang memadai dan mutakhir untuk menjamin luaran penelitian yang penting dan bermutu 2)"
+            },
+            {
+                "kode": "19",
+                "indikator": "Ketersediaan dana penelitian yang memadai dan berkelanjutan dari berbagai sumber, termasuk dana hibah penelitian dari pemerintah, internal institusi, dan industri 2 serta pengelolaannya yang transparan D. PENGABDIAN KEPADA MASYARAKAT"
+            }
+        ],
+        "Pengabdian Kepada Masyarakat": [
+            {
+                "kode": "20",
+                "indikator": "Pengelolaan Pengabdian kepada Masyarakat oleh DTPS dan mahasiswa yang handal, akuntable, dan transparan untuk mencapai luaran yang berdampak dan mendukung capaian Tujuan Pembangunan Berkelanjutan (TPB) 2) UP 3) UP 4) UP"
+            },
+            {
+                "kode": "21",
+                "indikator": "Pelaksanaan Pengabdian kepada Masyarakat (PkM) melaksanak relevan dengan bidang ilmu pengabd program studi dan kebutuhan masyar masyarakat oleh DTPS yang dengan p melibatkan atau tanpa melibatkan mahasiswa yang masyarak sesuai dengan peta jalan PkM 2) Mu"
+            },
+            {
+                "kode": "22",
+                "indikator": "Ketersediaan fasilitas dan dana yang memadai untuk mendukung kegiatan PkM serta pengelolaan dana yang transparan, efektif dan efisien. E. CAPAIAN DAN LUARAN"
+            }
+        ],
+        "Capaian dan Luaran": [
+            {
+                "kode": "23",
+                "indikator": "Publikasi ilmiah hasil penelitian dengan tema yang relevan dengan bidang program studi yang dihasilkan DTPS dan/ata bersama mahasiswa serta memiliki faktor dampak (impa factor) 3) K 4) J F. ANALISIS DAN PENETAPAN PROGRAM PENG"
+            }
+        ],
+        "Analisis dan Penetapan Program Pengembangan": [
+            {
+                "kode": "24",
+                "indikator": "Keserbacakupan (kelengkapan, keluasan, dan kedalaman), ketepatan, ketajaman, dan kesesuaian analisis capaian kinerja UPPS/PS serta konsistensi dengan setiap kriteria dan diakhiri dengan rencana pengembangan berdasarkan analisis kinerja 2) Rencana 3) Rencana"
+            }
+        ]
+    }
+}
